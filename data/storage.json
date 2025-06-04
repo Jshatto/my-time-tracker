@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Client A - Bookkeeping"
+    },
+    {
+      "id": "2",
+      "name": "Client B - Tax Prep"
+    },
+    {
+      "id": "3",
+      "name": "Client C - Payroll"
+    }
+  ],
+  "timeEntries": []
+}
